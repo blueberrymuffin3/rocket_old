@@ -1,5 +1,5 @@
 {
-    "port": "/dev/cu.usbmodem411",
+    "port": "/dev/ttyACM0",
     "board": "adafruit:avr:feather32u4",
     "sketch": "rocket_RX.ino"
 }
